@@ -4,4 +4,5 @@ def find_vertex(a, b, c):
     y = a * x ** 2 + b * x + c
     return [x, y]
 
+
 print(find_vertex(1, 10, 4))
